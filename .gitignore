@@ -9,3 +9,5 @@ bazel-*
 .idea/
 .vscode
 
+apis/.vs/apis/DesignTimeBuild/.dtbcache.v2
+apis/.vs/apis/v16/.suo
